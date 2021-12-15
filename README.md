@@ -4,7 +4,8 @@
 * 2학기 going deeper- NLP lecture정리
 * 풀잎스쿨: 모두의 데이터 분석 WITH 파이썬 & 모두의 알고리즘
 
-This is the repository that collects materials studied at the Aiffel School 
+This is the repository that collects materials studied at the Aiffel School.
+
 I learned essential knowledge as an engineer, such as Python, various libraries and Algorithms. 
 
 # 1. fundamental
